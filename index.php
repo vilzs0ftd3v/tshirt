@@ -356,9 +356,9 @@
     <h1 class = "title" id = "project">T-shirt Designs</h1>
 
     <div class="row" id = "firstrow">
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/faith_sm.png" id = "tshirt"></div>
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/grab_sm.png" id = "tshirt"></div>
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/invictus_sm.png" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/faith_sm.PNG" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/grab_sm.PNG" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/invictus_sm.PNG" id = "tshirt"></div>
     </div>
 
     <div class="row" id = "firstrow">
@@ -370,7 +370,7 @@
     <div class="row" id = "firstrow">
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/job_sm.png" id = "tshirt"></div>
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/share_sm.png" id = "tshirt"></div>
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/vision_sm.png" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/vision_sm.PNG" id = "tshirt"></div>
     </div>
     <div class="row" id = "firstrow">
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/water_sm.png" id = "tshirt"></div>
