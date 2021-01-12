@@ -370,12 +370,12 @@
     <div class="row" id = "firstrow">
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/job_sm.png" id = "tshirt"></div>
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/share_sm.png" id = "tshirt"></div>
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/vision_sm.PNG" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/vision_sm.png" id = "tshirt"></div>
     </div>
     <div class="row" id = "firstrow">
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/water_sm.png" id = "tshirt"></div>
         <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/worm_sm.png" id = "tshirt"></div>
-        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/look_sm.png" id = "tshirt"></div>
+        <div class="col-md-4 col-s-4" id="tshirt-block"><img src="public/images/look_sm.PNG" id = "tshirt"></div>
     </div>
 
     
